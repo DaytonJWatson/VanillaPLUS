@@ -1,0 +1,60 @@
+############################################################
+# |======================================================| #
+# |                     VanillaPLUS                      | #
+# |                    Version: 0.0.1                    | #
+# |                Discord: Unsocial#6136                | #
+# |======================================================| #
+############################################################
+#
+#
+#
+#
+#
+############################################################
+# |======================================================| #
+# |                    Server Settings                   | #
+# |======================================================| #
+############################################################
+
+serverSettings:
+  serverName: 'VanillaPLUS Server'
+  serverMotd: 'A Minecraft Server'
+  maxPlayers: 20
+  worldName: 'world'
+  
+  tabListHeader:
+    enabled: true
+    header: '&6<server>'
+  tabListFooter:
+    enabled: false
+    footer: '<motd>'
+  
+############################################################
+# |======================================================| #
+# |                     Chat Settings                    | #
+# |======================================================| #
+############################################################
+
+chatSettings:
+  chatFormat: '&6<player> &8>> &7<message>'
+  
+  newPlayerPrefix: '&8[&6New&8] &f'
+  firstJoinMessage: '&aWelcome <player> to <server>!'
+  joinMessage: '&7[&a+&7] &a<player> Joined'
+  quitMessage: '&7[&c-&7] &c<player> Left'
+  
+  
+############################################################
+# |======================================================| #
+# |                   Message Settings                   | #
+# |======================================================| #
+############################################################
+
+messageSettings:
+  noPermission: '&cPermission denied :('
+  goSpawn: '&bTaking you to spawn...'
+  setSpawn: '&bSpawn Location set for all Players!'
+  spawnNULL: '&cSpawn not set!'
+  bedNULL: '&bBed not found! Taking you to spawn...'
+  goBed: '&bTaking you to your bed...'
+  

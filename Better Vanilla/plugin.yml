@@ -1,0 +1,10 @@
+name: VanillaPLUS
+description: Vanilla Minecraft but its Better
+author: DaytonJWatson
+version: 0.0.1
+api-version: 1.15
+main: me.dayton.BetterVanilla.Main
+commands:
+  vanillaplus:
+  spawn:
+  setspawn:
